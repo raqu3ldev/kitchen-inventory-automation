@@ -1,0 +1,41 @@
+product_name,category,supplier_name,stock_quantity,reorder_level,unit_price
+Sushi Rice,Grains & Pulses,Jaxnation,22,72,4.5
+Arabica Coffee,Beverages,Feedmix,45,77,20.0
+Black Rice,Grains & Pulses,Vinder,30,38,6.0
+Long Grain Rice,Grains & Pulses,Brightbean,12,59,1.5
+Plum,Fruits & Vegetables,Topicstorm,37,30,4.0
+All-Purpose Flour,Grains & Pulses,Dabjam,55,33,1.75
+Corn Oil,Oils & Fats,Tagfeed,96,52,2.5
+Egg (Goose),Dairy,Muxo,44,90,2.5
+Greek Yogurt,Dairy,Thoughtstorm,91,84,3.0
+Egg (Duck),Dairy,Wordify,43,10,1.0
+White Sugar,Grains & Pulses,Zooxo,91,98,2.0
+Rye Bread,Bakery,Vitz,26,79,3.0
+Strawberries,Fruits & Vegetables,Babblestorm,54,26,6.0
+Feta Cheese,Dairy,Youfeed,94,13,7.0
+Bread Flour,Grains & Pulses,Mynte,27,93,1.5
+Swiss Cheese,Dairy,Reallinks,49,49,8.0
+Spinach,Fruits & Vegetables,Devshare,72,70,2.5
+Trout,Seafood,Jabbertype,49,73,12.0
+Green Beans,Fruits & Vegetables,Gigazoom,81,99,2.0
+Cabbage,Fruits & Vegetables,Chatterbridge,88,46,1.0
+Parmesan Cheese,Dairy,Feedspan,63,4,12.0
+Raw Sugar,Grains & Pulses,Mydo,31,43,1.5
+Egg (Quail),Dairy,Realpoint,97,88,0.8
+Mushrooms,Fruits & Vegetables,Photospace,72,87,6.0
+Oatmeal Biscuit,Bakery,Gigazoom,16,9,5.0
+Pear,Fruits & Vegetables,Centizu,77,20,4.5
+Cucumber,Fruits & Vegetables,Brainverse,19,36,1.75
+Pineapple,Fruits & Vegetables,Photojam,18,52,3.5
+Olive Oil,Oils & Fats,Kamba,47,48,6.0
+Herbal Tea,Beverages,Pixonyx,77,45,30.0
+Haddock,Seafood,Midel,46,28,9.0
+Onion,Fruits & Vegetables,Skyble,39,22,2.0
+Zucchini,Fruits & Vegetables,Kare,61,90,2.5
+Short Grain Rice,Grains & Pulses,Snaptags,60,90,3.0
+Mango,Fruits & Vegetables,Twitternation,24,55,5.0
+Lemon,Fruits & Vegetables,Layo,12,7,2.3
+Black Coffee,Beverages,Realpoint,84,13,15.0
+Butter,Dairy,Kayveo,51,100,3.0
+Multigrain Bread,Bakery,Roombo,65,36,3.5
+Kiwi,Fruits & Vegetables,Fiveclub,45,24,6.0
